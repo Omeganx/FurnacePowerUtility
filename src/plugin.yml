@@ -1,0 +1,10 @@
+name: TopredStoneTweaks
+version: 1.2
+author: Nano_
+main: com.omeganx.plugin.signalstrenght.MainTopredStoneTweaks
+api-version: 1.13
+website: topred.fr
+commands:
+  f:
+    description: TopredStoneTweaks
+    usage: Usage /f [0-15]
